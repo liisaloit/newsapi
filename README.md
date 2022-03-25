@@ -39,7 +39,7 @@ The **config.ini** file is include in **.gitignore**
 - **cd** into **news_env**
 - Activate the Virtual Environment
     - **.\Scripts\activate** (*Windows*)
-    - **bin/activate** (*macOS*) 
+    - ** sourse bin/activate** (*macOS*) 
 - **cd** to the folder with the **requirements.txt** file
 - Install the necessary modules from the **requirements.txt** file
     - **pip3 install -r requirements.txt**
